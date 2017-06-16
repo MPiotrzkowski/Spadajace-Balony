@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spadajace Balony">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spadajace_Balony</output-path>
+    <root id="archive" name="Spadajace Balony.jar">
+      <element id="module-output" name="Spadajace_Balony" />
+      <element id="file-copy" path="$PROJECT_DIR$/pom.xml" />
+    </root>
+  </artifact>
+</component>
